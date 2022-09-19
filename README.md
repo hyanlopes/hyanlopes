@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://portifolio-hyan.vercel.app](https://portifolio-hyan.vercel.app)
+- 👨‍💻 All of my projects are available at [https://hyan-portifolio.vercel.app/](https://hyan-portifolio.vercel.app/)
 
 - 📫 How to reach me **hyanpessoal@gmail.com**
 
